@@ -5,8 +5,9 @@ using namespace std;
 int main() {
 
     string word, cur = "";
-    cout << "Enter any word: \n";
+    cout << "Enter the target word: ";
     getline(cin, word);
+    cout << "Constructed word:\n";
 
     int idx = 0;
     while(idx < word.size()) {
