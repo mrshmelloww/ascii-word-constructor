@@ -75,7 +75,6 @@ The ASCII Word Constructor is a C++ program that constructs a word from given AS
 For any inquiries or suggestions, feel free to reach out:
 
 - Email: akiradev02@icloud.com
-- LinkedIn: 
 #
 Project Link: [ASCII Word Constructor](https://github.com/fettucci/ascii-word-constructor)
 
